@@ -1,0 +1,19 @@
+{
+  "name": "crypto-strategy-backtester",
+  "version": "1.2.1",
+  "description": "Backtest trading strategies with historical crypto market data.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xmnix0/crypto-strategy-backtester"
+  },
+  "author": "0xmnix0",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "moment": "^2.29.1",
+    "pandas-js": "^0.2.5",
+    "technicalindicators": "^1.1.13",
+    "crypto-signal-engine": "1.0.0"
+  }
+}
